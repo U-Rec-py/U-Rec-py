@@ -17,8 +17,9 @@
 
 ⚡ Here is a dynamic look at my coding journey:
 
-![U-Rec-py's GitHub Stats](https://github-readme-stats.vercel.app/api?username=U-Rec-py&show_icons=true&theme=radial)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=U-Rec-py&layout=compact&theme=radial)
+![U-Rec-py's GitHub Stats](https://gh-stats.com/api?username=U-Rec-py&show_icons=true&theme=radial)
+![Top Langs](https://gh-stats.com/api/top-langs/?username=U-Rec-py&layout=compact&theme=radial)
+![GitHub Streak](https://streak-stats.demolab.com/?user=U-Rec-py&theme=radial)
 
 
 <!--
