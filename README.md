@@ -7,13 +7,19 @@
 - 💬 Don't ask me about **[how to deal with Chaos]**
 
 ---
+### 🛠️ My Tech Stack
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Bash](https://img.shields.io/badge/bash-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+---
 
 ### 📊 My GitHub Stats
 
 ⚡ Here is a dynamic look at my coding journey:
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=U-Rec-py&show_icons=true&theme=radial)
+![U-Rec-py's GitHub Stats](https://github-readme-stats.vercel.app/api?username=U-Rec-py&show_icons=true&theme=radial)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=U-Rec-py&layout=compact&theme=radial)
+
 
 <!--
 ---
