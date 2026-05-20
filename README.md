@@ -12,8 +12,8 @@
 
 ⚡ Here is a dynamic look at my coding journey:
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME-HERE&show_icons=true&theme=radial)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME-HERE&layout=compact&theme=radial)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=U-Rec-py&show_icons=true&theme=radial)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=U-Rec-py&layout=compact&theme=radial)
 
 <!--
 ---
