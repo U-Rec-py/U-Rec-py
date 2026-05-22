@@ -1,4 +1,4 @@
-# Hi there, I'm [U-Rec-py]! 👋
+# Hi there, I'm U-Rec-py! 👋
 
 ### 🚀 A Passionate coder naturally prone to chaos!
 
