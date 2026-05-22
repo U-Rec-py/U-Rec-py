@@ -2,9 +2,9 @@
 
 ### 🚀 A Passionate coder naturally prone to chaos!
 
-- 🔭 I’m currently working on **[Chaos]**
-- 🌱 I’m currently learning **[Python, PHP, SQL, dealing with Chaos]**
-- 💬 Don't ask me about **[how to deal with Chaos]**
+- 🔭 I’m currently working on **Chaos**
+- 🌱 I’m currently learning **Python, PHP, SQL, dealing with Chaos**
+- 💬 Don't ask me about **how to deal with Chaos**
 
 ---
 ### 🛠️ My Tech Stack
